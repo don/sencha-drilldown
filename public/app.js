@@ -1,9 +1,10 @@
 Ext.setup({
     onReady: function() {
-        Ext.regModel('Person', {
+        Ext.regModel('Company', {
             fields: [
-                {name: 'id', type: 'string'},    
-                {name: 'name', type: 'string'}
+                {name: 'ticker', type: 'string'},    
+                {name: 'name', type: 'string'},    
+                {name: 'sector', type: 'string'},    
             ]
         });
 
@@ -14,20 +15,20 @@ Ext.setup({
 
         var detailTemplate = new Ext.XTemplate(
             '<div class="detail">',
-                'id: {id}<br/>',            
-                'name: {name}<br/>',
-                '<p>Show some other details here</p>',
+                'Ticker:<br/> <b>{ticker}</b><br/>',            
+                'Company:<br/> <b>{name}</b><br/>',
+                'Sector:<br/> <b>{sector}</b><br/>',
             '</div>'
         );
 
         var jsonStore = new Ext.data.Store({
-            model: "Person",
+            model: "Company",
             proxy: {
                 type: 'ajax',
-                url: 'data.json',
+                url: 'sp500.json',
                 reader: {
                     type: 'json',
-                    record: 'person'
+                    record: 'company'
                 }               
             },
             autoLoad: true
@@ -55,7 +56,7 @@ Ext.setup({
                 
         // TODO what's the right way to do events? on...
         var showDetail = function(record, btn, index) {
-            navBar.setTitle(record.get('name'));
+            navBar.setTitle(record.get('ticker'));
             detailPanel.update(record.data); 
             panel.setActiveItem(1);         
         }
@@ -63,7 +64,7 @@ Ext.setup({
         var listPanel = {
             dockedItems: [
                 {
-                    title: 'People',
+                    title: 'Companies',
                     xtype: 'toolbar',
                     ui: 'light',
                     dock: 'top'
@@ -75,7 +76,8 @@ Ext.setup({
                     store: jsonStore,
                     itemTpl:itemTemplate,
                     singleSelect: true,
-                    onItemDisclosure: showDetail
+                    onItemDisclosure: showDetail,
+                    scroll: 'vertical'
                 }
             ]           
         };
