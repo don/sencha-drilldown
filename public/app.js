@@ -70,14 +70,14 @@ Ext.setup({
                     dock: 'top'
                 }
             ],
+            scroll: 'vertical',            
             items: [
                 {
                     xtype: 'list',
                     store: jsonStore,
                     itemTpl:itemTemplate,
                     singleSelect: true,
-                    onItemDisclosure: showDetail,
-                    scroll: 'vertical'
+                    onItemDisclosure: showDetail
                 }
             ]           
         };
