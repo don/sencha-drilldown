@@ -1,0 +1,502 @@
+"S&P 500 April 16th, 2007",,,,,,,,,
+Ticker,Stock_Name,Sector_code,Sector_Name,Industry_Group_Code,Industry_Group_Name,Industry_Code,Industry_Name,Sub_Ind_Code,Sub_Ind_Name
+MMM,3M Company,20,Industrials,2010,Capital Goods,201050,Industrial Conglomerates,20105010,Industrial Conglomerates
+ACE,ACE Limited,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+ADCT,ADC Telecommunications,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+AES,AES Corp.,55,Utilities,5510,Utilities,551050,Independent Power Producers & Energy Traders,55105010,Independent Power Producers & Energy Traders
+AFL,AFLAC Inc.,40,Financials,4030,Insurance,403010,Insurance,40301020,Life & Health Insurance
+AT,ALLTEL Corp.,50,Telecommunication Services,5010,Telecommunication Services,501020,Wireless Telecommunication Services,50102010,Wireless Telecommunication Services
+T,AT&T Inc.,50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Integrated Telecommunication Services
+ABT,Abbott Labs,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+ANF,Abercrombie & Fitch Co.,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504010,Apparel Retail
+ADBE,Adobe Systems,45,Information Technology,4510,Software & Services,451030,Software,45103010,Application Software
+AMD,Advanced Micro Devices,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+AET,Aetna Inc.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102030,Managed Health Care
+ACS,Affiliated Computer,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+A,Agilent Technologies,45,Information Technology,4520,Technology Hardware & Equipment,452030,Electronic Equipment & Instruments,45203010,Electronic Equipment Manufacturers
+APD,Air Products & Chemicals,15,Materials,1510,Materials,151010,Chemicals,15101040,Industrial Gases
+AA,Alcoa Inc,15,Materials,1510,Materials,151040,Metals & Mining,15104010,Aluminum
+AYE,Allegheny Energy,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+ATI,Allegheny Technologies Inc,15,Materials,1510,Materials,151040,Metals & Mining,15104050,Steel
+AGN,"Allergan, Inc.",35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+AW,Allied Waste Industries,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201050,Environmental & Facilities Services
+ALL,Allstate Corp.,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+ALTR,Altera Corp.,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+MO,"Altria Group, Inc.",30,Consumer Staples,3020,Food Beverage & Tobacco,302030,Tobacco,30203010,Tobacco
+AMZN,Amazon Corp.,25,Consumer Discretionary,2550,Retailing,255020,Internet & Catalog Retail,25502020,Internet Retail
+ABK,Ambac Financial Group,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+AEE,Ameren Corporation,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+AEP,American Electric Power,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+AXP,American Express,40,Financials,4020,Diversified Financials,402020,Consumer Finance,40202010,Consumer Finance
+AIG,American Int'l. Group,40,Financials,4030,Insurance,403010,Insurance,40301030,Multi-line Insurance
+ASD,American Standard,20,Industrials,2010,Capital Goods,201020,Building Products,20102010,Building Products
+AMP,"Ameriprise Financial, Inc.",40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+ABC,AmerisourceBergen Corp.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102010,Health Care Distributors
+AMGN,Amgen,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352010,Biotechnology,35201010,Biotechnology
+APC,Anadarko Petroleum,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102020,Oil & Gas Exploration & Production
+ADI,Analog Devices,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+BUD,Anheuser-Busch,30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201010,Brewers
+AOC,Aon Corp.,40,Financials,4030,Insurance,403010,Insurance,40301010,Insurance Brokers
+APA,Apache Corp.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102020,Oil & Gas Exploration & Production
+AIV,Apartment Investment & Mgmt'A',40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402050,Residential REITs
+APOL,Apollo Group,25,Consumer Discretionary,2530,Consumer Services,253020,Diversified Consumer Services,25302010,Education Services
+AAPL,Apple Inc.,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202010,Computer Hardware
+ABI,Applera Corp-Applied Biosystems Group,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352030,Life Sciences Tools & Services,35203010,Life Sciences Tools & Services
+AMAT,Applied Materials,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301010,Semiconductor Equipment
+ADM,Archer-Daniels-Midland,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202010,Agricultural Products
+ASN,Archstone-Smith Trust,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402050,Residential REITs
+ASH,Ashland Inc.,15,Materials,1510,Materials,151010,Chemicals,15101020,Diversified Chemicals
+AIZ,Assurant Inc,40,Financials,4030,Insurance,403010,Insurance,40301030,Multi-line Insurance
+AN,"AutoNation, Inc.",25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504050,Automotive Retail
+AZO,AutoZone Inc.,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504050,Automotive Retail
+ADSK,"Autodesk, Inc.",45,Information Technology,4510,Software & Services,451030,Software,45103010,Application Software
+ADP,Automatic Data Processing Inc.,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+AVB,AvalonBay Communities,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402050,Residential REITs
+AV,Avaya Inc.,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+AVY,Avery Dennison Corp.,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201060,Office Services & Supplies
+AVP,Avon Products,30,Consumer Staples,3030,Household & Personal Products,303020,Personal Products,30302010,Personal Products
+BBT,BB&T Corporation,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+BIIB,BIOGEN IDEC Inc.,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352010,Biotechnology,35201010,Biotechnology
+BJS,BJ Services,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Oil & Gas Equipment & Services
+BMC,BMC Software,45,Information Technology,4510,Software & Services,451030,Software,45103020,Systems Software
+BHI,Baker Hughes,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Oil & Gas Equipment & Services
+BLL,Ball Corp.,15,Materials,1510,Materials,151030,Containers & Packaging,15103010,Metal & Glass Containers
+BAC,Bank of America Corp.,40,Financials,4020,Diversified Financials,402010,Diversified Financial Services,40201020,Other Diversified Financial Services
+BK,Bank of New York,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+BCR,Bard (C.R.) Inc.,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+BRL,"Barr Pharmaceuticals, Inc.",35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+BOL,Bausch & Lomb,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101020,Health Care Supplies
+BAX,Baxter International Inc.,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+BSC,Bear Stearns Cos.,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203020,Investment Banking & Brokerage
+BDX,"Becton, Dickinson",35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+BBBY,Bed Bath & Beyond,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504060,Homefurnishing Retail
+BMS,Bemis Company,15,Materials,1510,Materials,151030,Containers & Packaging,15103020,Paper Packaging
+BBY,"Best Buy Co., Inc.",25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504020,Computer & Electronics Retail
+BIG,"Big Lots, Inc.",25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503020,General Merchandise Stores
+BMET,"Biomet, Inc.",35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+BDK,Black & Decker Corp.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201040,Household Appliances
+HRB,Block H&R,25,Consumer Discretionary,2530,Consumer Services,253020,Diversified Consumer Services,25302020,Specialized Consumer Services
+BA,Boeing Company,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+BXP,Boston Properties,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402040,Office REITs
+BSX,Boston Scientific,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+BMY,Bristol-Myers Squibb,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+BRCM,Broadcom Corporation,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+BF.B,Brown-Forman Corp.,30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201020,Distillers & Vintners
+BC,Brunswick Corp.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252020,Leisure Equipment & Products,25202010,Leisure Products
+BNI,Burlington Northern Santa Fe C,20,Industrials,2030,Transportation,203040,Road & Rail,20304010,Railroads
+CHRW,C.H. Robinson Worldwide,20,Industrials,2030,Transportation,203010,Air Freight & Logistics,20301010,Air Freight & Logistics
+CA,"CA, Inc.",45,Information Technology,4510,Software & Services,451030,Software,45103020,Systems Software
+CBG,CB Richard Ellis Group,40,Financials,4040,Real Estate,404030,Real Estate Management & Development,40403010,Real Estate Management & Development
+CBS,CBS Corp.,25,Consumer Discretionary,2540,Media,254010,Media,25401020,Broadcasting & Cable TV
+CI,CIGNA Corp.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102030,Managed Health Care
+CIT,CIT Group,40,Financials,4020,Diversified Financials,402010,Diversified Financial Services,40201040,Specialized Finance
+CMS,CMS Energy,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+CNX,CONSOL Energy Inc.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102050,Coal & Consumable Fuels
+CSX,CSX Corp.,20,Industrials,2030,Transportation,203040,Road & Rail,20304010,Railroads
+CVS,CVS/Caremark Corp.,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101010,Drug Retail
+CPB,Campbell Soup,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+COF,Capital One Financial,40,Financials,4020,Diversified Financials,402020,Consumer Finance,40202010,Consumer Finance
+CAH,"Cardinal Health, Inc.",35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102010,Health Care Distributors
+CCL,Carnival Corp.,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301020,"Hotels, Resorts & Cruise Lines"
+CAT,Caterpillar Inc.,20,Industrials,2010,Capital Goods,201060,Machinery,20106010,Construction & Farm Machinery & Heavy Trucks
+CELG,Celgene Corp.,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352010,Biotechnology,35201010,Biotechnology
+CNP,CenterPoint Energy,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+CTX,Centex Corp.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201030,Homebuilding
+CTL,Century Telephone,50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Integrated Telecommunication Services
+SCHW,Charles Schwab,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203020,Investment Banking & Brokerage
+CHK,Chesapeake Energy,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102020,Oil & Gas Exploration & Production
+CVX,Chevron Corp.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102010,Integrated Oil & Gas
+CME,Chicago Mercantile Exchange,40,Financials,4020,Diversified Financials,402010,Diversified Financial Services,40201040,Specialized Finance
+CB,Chubb Corp.,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+CIEN,Ciena Corp.,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+CINF,Cincinnati Financial,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+CTAS,Cintas Corporation,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201030,Diversified Commercial & Professional Services
+CC,Circuit City Group,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504020,Computer & Electronics Retail
+CSCO,Cisco Systems,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+C,Citigroup Inc.,40,Financials,4020,Diversified Financials,402010,Diversified Financial Services,40201020,Other Diversified Financial Services
+CZN,Citizens Communications,50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Integrated Telecommunication Services
+CTXS,Citrix Systems,45,Information Technology,4510,Software & Services,451030,Software,45103010,Application Software
+CCU,Clear Channel Communications,25,Consumer Discretionary,2540,Media,254010,Media,25401020,Broadcasting & Cable TV
+CLX,Clorox Co.,30,Consumer Staples,3030,Household & Personal Products,303010,Household Products,30301010,Household Products
+COH,"Coach, Inc.",25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,"Textiles, Apparel & Luxury Goods",25203010,"Apparel, Accessories & Luxury Goods"
+KO,Coca Cola Co.,30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201030,Soft Drinks
+CCE,Coca-Cola Enterprises,30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201030,Soft Drinks
+CTSH,Cognizant Technology Solutions,45,Information Technology,4510,Software & Services,451020,IT Services,45102010,IT Consulting & Other Services
+CL,Colgate-Palmolive,30,Consumer Staples,3030,Household & Personal Products,303010,Household Products,30301010,Household Products
+CMCSA,Comcast Corp.,25,Consumer Discretionary,2540,Media,254010,Media,25401020,Broadcasting & Cable TV
+CMA,Comerica Inc.,40,Financials,4010,Banks,401010,Commercial Banks,40101010,Diversified Banks
+CBH,Commerce Bancorp,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+CBSS,Compass Bancshares,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+CSC,Computer Sciences Corp.,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+CPWR,Compuware Corp.,45,Information Technology,4510,Software & Services,451030,Software,45103010,Application Software
+CAG,"ConAgra Foods, Inc.",30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+COP,ConocoPhillips,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102010,Integrated Oil & Gas
+ED,Consolidated Edison,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+STZ,Constellation Brands,30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201020,Distillers & Vintners
+CEG,Constellation Energy Group,55,Utilities,5510,Utilities,551050,Independent Power Producers & Energy Traders,55105010,Independent Power Producers & Energy Traders
+CVG,Convergys Corp.,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+CBE,"Cooper Industries, Ltd.",20,Industrials,2010,Capital Goods,201040,Electrical Equipment,20104010,Electrical Components & Equipment
+GLW,Corning Inc.,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+COST,Costco Co.,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101040,HyperMarkets & Super Centers
+CFC,Countrywide Financial Corp.,40,Financials,4010,Banks,401020,Thrifts & Mortgage Finance,40102010,Thrifts & Mortgage Finance
+CVH,Coventry Health Care Inc.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102030,Managed Health Care
+CMI,Cummins  Inc.,20,Industrials,2010,Capital Goods,201060,Machinery,20106010,Construction & Farm Machinery & Heavy Trucks
+DHI,D.R. Horton,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201030,Homebuilding
+DTV,DIRECTV Group Inc.,25,Consumer Discretionary,2540,Media,254010,Media,25401020,Broadcasting & Cable TV
+DTE,DTE Energy Co.,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+DHR,Danaher Corp.,20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+DRI,Darden Restaurants,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301040,Restaurants
+DF,Dean Foods,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+DE,Deere & Co.,20,Industrials,2010,Capital Goods,201060,Machinery,20106010,Construction & Farm Machinery & Heavy Trucks
+DELL,Dell Inc.,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202010,Computer Hardware
+DDR,Developers Diversified Rlty,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402060,Retail REITs
+DVN,Devon Energy Corp.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102020,Oil & Gas Exploration & Production
+DDS,Dillard Inc.,25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503010,Department Stores
+DG,Dollar General,25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503020,General Merchandise Stores
+D,Dominion Resources,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+RRD,Donnelley (R.R.) & Sons,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201010,Commercial Printing
+DOV,Dover Corp.,20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+DOW,Dow Chemical,15,Materials,1510,Materials,151010,Chemicals,15101020,Diversified Chemicals
+DJ,Dow Jones & Co.,25,Consumer Discretionary,2540,Media,254010,Media,25401040,Publishing
+DD,Du Pont (E.I.),15,Materials,1510,Materials,151010,Chemicals,15101020,Diversified Chemicals
+DUK,Duke Energy,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+DYN,Dynegy Inc.,55,Utilities,5510,Utilities,551050,Independent Power Producers & Energy Traders,55105010,Independent Power Producers & Energy Traders
+ETFC,E*Trade Financial Corp.,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203020,Investment Banking & Brokerage
+EMC,EMC Corp.,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202020,Computer Storage & Peripherals
+ESV,ENSCO Int'l,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101010,Oil & Gas Drilling
+EOG,EOG Resources,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102020,Oil & Gas Exploration & Production
+EMN,Eastman Chemical,15,Materials,1510,Materials,151010,Chemicals,15101020,Diversified Chemicals
+EK,Eastman Kodak,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252020,Leisure Equipment & Products,25202020,Photographic Products
+ETN,Eaton Corp.,20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+ECL,Ecolab Inc.,15,Materials,1510,Materials,151010,Chemicals,15101050,Specialty Chemicals
+EIX,Edison Int'l,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+EP,El Paso Corp.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102040,Oil & Gas Storage & Transportation
+ERTS,Electronic Arts,45,Information Technology,4510,Software & Services,451030,Software,45103030,Home Entertainment Software
+EDS,Electronic Data Systems,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+EQ,Embarq Corporation,50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Integrated Telecommunication Services
+EMR,Emerson Electric,20,Industrials,2010,Capital Goods,201040,Electrical Equipment,20104010,Electrical Components & Equipment
+ETR,Entergy Corp.,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+EFX,Equifax Inc.,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201030,Diversified Commercial & Professional Services
+EQR,Equity Residential,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402050,Residential REITs
+EL,Estee Lauder Cos.,30,Consumer Staples,3030,Household & Personal Products,303020,Personal Products,30302010,Personal Products
+EXC,Exelon Corp.,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+ESRX,Express Scripts,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102015,Health Care Services
+XOM,Exxon Mobil Corp.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102010,Integrated Oil & Gas
+FISV,FIserv Inc.,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+FPL,FPL Group,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+FDO,Family Dollar Stores,25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503020,General Merchandise Stores
+FNM,Fannie Mae,40,Financials,4010,Banks,401020,Thrifts & Mortgage Finance,40102010,Thrifts & Mortgage Finance
+FDX,FedEx Corporation,20,Industrials,2030,Transportation,203010,Air Freight & Logistics,20301010,Air Freight & Logistics
+FRE,Federal Home Loan Mtg.,40,Financials,4010,Banks,401020,Thrifts & Mortgage Finance,40102010,Thrifts & Mortgage Finance
+FD,Federated Dept. Stores,25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503010,Department Stores
+FII,Federated Investors Inc.,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+FIS,Fidelity National Information Services,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+FITB,Fifth Third Bancorp,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+FDC,First Data,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+FHN,First Horizon National,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+FE,FirstEnergy Corp.,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+FLR,Fluor Corp. (New),20,Industrials,2010,Capital Goods,201030,Construction & Engineering,20103010,Construction & Engineering
+F,Ford Motor,25,Consumer Discretionary,2510,Automobiles & Components,251020,Automobiles ,25102010,Automobile Manufacturers
+FRX,Forest Laboratories,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+FO,"Fortune Brands, Inc.",25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201050,Housewares & Specialties
+BEN,Franklin Resources,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+FCX,Freeport-McMoran Cp & Gld,15,Materials,1510,Materials,151040,Metals & Mining,15104020,Diversified Metals & Mining
+GCI,Gannett Co.,25,Consumer Discretionary,2540,Media,254010,Media,25401040,Publishing
+GPS,Gap (The),25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504010,Apparel Retail
+GD,General Dynamics,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+GE,General Electric,20,Industrials,2010,Capital Goods,201050,Industrial Conglomerates,20105010,Industrial Conglomerates
+GIS,General Mills,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+GM,General Motors,25,Consumer Discretionary,2510,Automobiles & Components,251020,Automobiles ,25102010,Automobile Manufacturers
+GPC,Genuine Parts,25,Consumer Discretionary,2550,Retailing,255010,Distributors,25501010,Distributors
+GNW,Genworth Financial Inc.,40,Financials,4030,Insurance,403010,Insurance,40301030,Multi-line Insurance
+GENZ,Genzyme Corp.,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352010,Biotechnology,35201010,Biotechnology
+GILD,Gilead Sciences,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352010,Biotechnology,35201010,Biotechnology
+GS,Goldman Sachs Group,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203020,Investment Banking & Brokerage
+GR,Goodrich Corporation,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+GT,Goodyear Tire & Rubber,25,Consumer Discretionary,2510,Automobiles & Components,251010,Auto Components,25101020,Tires & Rubber
+GOOG,Google Inc.,45,Information Technology,4510,Software & Services,451010,Internet Software & Services,45101010,Internet Software & Services
+GWW,Grainger (W.W.) Inc.,20,Industrials,2010,Capital Goods,201070,Trading Companies & Distributors,20107010,Trading Companies & Distributors
+HAL,Halliburton Co.,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Oil & Gas Equipment & Services
+HOG,Harley-Davidson,25,Consumer Discretionary,2510,Automobiles & Components,251020,Automobiles ,25102020,Motorcycle Manufacturers
+HAR,Harman Int'l Industries,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201010,Consumer Electronics
+HET,Harrah's Entertainment,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301010,Casinos & Gaming
+HIG,Hartford Financial Svc.Gp.,40,Financials,4030,Insurance,403010,Insurance,40301030,Multi-line Insurance
+HAS,Hasbro Inc.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252020,Leisure Equipment & Products,25202010,Leisure Products
+HNZ,Heinz (H.J.),30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+HPC,"Hercules, Inc.",15,Materials,1510,Materials,151010,Chemicals,15101020,Diversified Chemicals
+HES,Hess Corporation,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102010,Integrated Oil & Gas
+HPQ,Hewlett-Packard,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202010,Computer Hardware
+HLT,Hilton Hotels,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301020,"Hotels, Resorts & Cruise Lines"
+HD,Home Depot,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504030,Home Improvement Retail
+HON,Honeywell Int'l Inc.,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+HSP,Hospira Inc.,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+HST,Host Hotels & Resorts,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402070,Specialized REITs
+HCBK,Hudson City Bancorp,40,Financials,4010,Banks,401020,Thrifts & Mortgage Finance,40102010,Thrifts & Mortgage Finance
+HUM,Humana Inc.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102030,Managed Health Care
+HBAN,Huntington Bancshares,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+IACI,IAC/InterActive Corp.,25,Consumer Discretionary,2550,Retailing,255020,Internet & Catalog Retail,25502020,Internet Retail
+RX,IMS Health Inc.,35,Health Care,3510,Health Care Equipment & Services,351030,Health Care Technology,35103010,Health Care Technology
+ITT,ITT Corporation,20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+ITW,Illinois Tool Works,20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+IR,Ingersoll-Rand Co. Ltd.,20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+TEG,"Integrys Energy Group, Inc.",55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+INTC,Intel Corp.,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+IBM,International Bus. Machines,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202010,Computer Hardware
+IFF,International Flav/Frag,15,Materials,1510,Materials,151010,Chemicals,15101050,Specialty Chemicals
+IGT,International Game Technology,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301010,Casinos & Gaming
+IP,International Paper,15,Materials,1510,Materials,151050,Paper & Forest Products,15105020,Paper Products
+IPG,Interpublic Group,25,Consumer Discretionary,2540,Media,254010,Media,25401010,Advertising
+INTU,"Intuit, Inc.",45,Information Technology,4510,Software & Services,451030,Software,45103010,Application Software
+JDSU,JDS Uniphase Corp.,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+JPM,JPMorgan Chase & Co.,40,Financials,4020,Diversified Financials,402010,Diversified Financial Services,40201020,Other Diversified Financial Services
+JBL,Jabil Circuit,45,Information Technology,4520,Technology Hardware & Equipment,452030,Electronic Equipment & Instruments,45203020,Electronic Manufacturing Services
+JNS,Janus Capital Group,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+JNJ,Johnson & Johnson,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+JCI,Johnson Controls,25,Consumer Discretionary,2510,Automobiles & Components,251010,Auto Components,25101010,Auto Parts & Equipment
+JNY,Jones Apparel Group,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,"Textiles, Apparel & Luxury Goods",25203010,"Apparel, Accessories & Luxury Goods"
+JNPR,Juniper Networks,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+KBH,KB Home,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201030,Homebuilding
+KLAC,KLA-Tencor Corp.,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301010,Semiconductor Equipment
+K,Kellogg Co.,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+KEY,KeyCorp,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+KSE,Keyspan Energy,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+KMB,Kimberly-Clark,30,Consumer Staples,3030,Household & Personal Products,303010,Household Products,30301010,Household Products
+KIM,Kimco Realty,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402060,Retail REITs
+KMI,Kinder Morgan,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102040,Oil & Gas Storage & Transportation
+KG,King Pharmaceuticals,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+KSS,Kohl's Corp.,25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503010,Department Stores
+KFT,Kraft Foods Inc-A,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+KR,Kroger Co.,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101030,Food Retail
+LLL,L-3 Communications Holdings,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+LSI,LSI Corporation,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+LH,Laboratory Corp. of America Holding,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102015,Health Care Services
+LM,Legg Mason,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+LEG,Leggett & Platt,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201020,Home Furnishings
+LEH,Lehman Bros.,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203020,Investment Banking & Brokerage
+LEN,Lennar Corp.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201030,Homebuilding
+LXK,Lexmark Int'l Inc,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202020,Computer Storage & Peripherals
+LLY,Lilly (Eli) & Co.,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+LTD,"Limited Brands, Inc.",25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504010,Apparel Retail
+LNC,Lincoln National,40,Financials,4030,Insurance,403010,Insurance,40301020,Life & Health Insurance
+LLTC,Linear Technology Corp.,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+LIZ,"Liz Claiborne, Inc.",25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,"Textiles, Apparel & Luxury Goods",25203010,"Apparel, Accessories & Luxury Goods"
+LMT,Lockheed Martin Corp.,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+LTR,Loews Corp.,40,Financials,4030,Insurance,403010,Insurance,40301030,Multi-line Insurance
+LOW,Lowe's Cos.,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504030,Home Improvement Retail
+MTB,M&T Bank Corp.,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+MBI,MBIA Inc.,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+MTG,MGIC Investment,40,Financials,4010,Banks,401020,Thrifts & Mortgage Finance,40102010,Thrifts & Mortgage Finance
+HCR,Manor Care Inc.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102020,Health Care Facilities
+MRO,Marathon Oil Corp.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102010,Integrated Oil & Gas
+MAR,Marriott Int'l.,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301020,"Hotels, Resorts & Cruise Lines"
+MMC,Marsh & McLennan,40,Financials,4030,Insurance,403010,Insurance,40301010,Insurance Brokers
+MI,Marshall & Ilsley Corp.,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+MAS,Masco Corp.,20,Industrials,2010,Capital Goods,201020,Building Products,20102010,Building Products
+MAT,"Mattel, Inc.",25,Consumer Discretionary,2520,Consumer Durables & Apparel,252020,Leisure Equipment & Products,25202010,Leisure Products
+MXIM,Maxim Integrated Prod,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+MKC,McCormick & Co.,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+MCD,McDonald's Corp.,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301040,Restaurants
+MHP,McGraw-Hill,25,Consumer Discretionary,2540,Media,254010,Media,25401040,Publishing
+MCK,McKesson Corp. (New),35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102010,Health Care Distributors
+MWV,MeadWestvaco Corporation,15,Materials,1510,Materials,151050,Paper & Forest Products,15105020,Paper Products
+MEDI,MedImmune Inc.,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352010,Biotechnology,35201010,Biotechnology
+MHS,Medco Health Solutions Inc.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102015,Health Care Services
+MDT,Medtronic Inc.,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+MEL,Mellon Bank Corp.,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+MRK,Merck & Co.,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+MDP,Meredith Corp.,25,Consumer Discretionary,2540,Media,254010,Media,25401040,Publishing
+MER,Merrill Lynch,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203020,Investment Banking & Brokerage
+MET,MetLife Inc.,40,Financials,4030,Insurance,403010,Insurance,40301020,Life & Health Insurance
+MU,Micron Technology,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+MSFT,Microsoft Corp.,45,Information Technology,4510,Software & Services,451030,Software,45103020,Systems Software
+MIL,Millipore Corp.,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352030,Life Sciences Tools & Services,35203010,Life Sciences Tools & Services
+MOLX,Molex Inc.,45,Information Technology,4520,Technology Hardware & Equipment,452030,Electronic Equipment & Instruments,45203020,Electronic Manufacturing Services
+TAP,Molson Coors Brewing Company,30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201010,Brewers
+MON,Monsanto Co.,15,Materials,1510,Materials,151010,Chemicals,15101030,Fertilizers & Agricultural Chemicals
+MNST,Monster Worldwide,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201040,Human Resource & Employment Services
+MCO,Moody's Corp,40,Financials,4020,Diversified Financials,402010,Diversified Financial Services,40201040,Specialized Finance
+MS,Morgan Stanley,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203020,Investment Banking & Brokerage
+MOT,Motorola Inc.,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+MUR,Murphy Oil,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102010,Integrated Oil & Gas
+MYL,Mylan Laboratories,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+NCR,NCR Corp.,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202010,Computer Hardware
+GAS,NICOR Inc.,55,Utilities,5510,Utilities,551020,Gas Utilities,55102010,Gas Utilities
+NKE,NIKE Inc.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,"Textiles, Apparel & Luxury Goods",25203020,Footwear
+NVDA,NVIDIA Corp.,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+NBR,Nabors Industries Ltd.,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101010,Oil & Gas Drilling
+NCC,National City Corp.,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+NOV,"National Oilwell Varco, Inc.",10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Oil & Gas Equipment & Services
+NSM,National Semiconductor,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+NTAP,Network Appliance,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202020,Computer Storage & Peripherals
+NYT,New York Times Cl. A,25,Consumer Discretionary,2540,Media,254010,Media,25401040,Publishing
+NWL,Newell Rubbermaid Co.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201050,Housewares & Specialties
+NEM,Newmont Mining Corp. (Hldg. Co.),15,Materials,1510,Materials,151040,Metals & Mining,15104030,Gold
+NWS.A,News Corporation,25,Consumer Discretionary,2540,Media,254010,Media,25401030,Movies & Entertainment
+NI,NiSource Inc.,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+NE,Noble Corporation,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101010,Oil & Gas Drilling
+JWN,Nordstrom,25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503010,Department Stores
+NSC,Norfolk Southern Corp.,20,Industrials,2030,Transportation,203040,Road & Rail,20304010,Railroads
+NTRS,Northern Trust Corp.,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+NOC,Northrop Grumman Corp.,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+NOVL,Novell Inc.,45,Information Technology,4510,Software & Services,451030,Software,45103020,Systems Software
+NVLS,Novellus Systems,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301010,Semiconductor Equipment
+NUE,Nucor Corp.,15,Materials,1510,Materials,151040,Metals & Mining,15104050,Steel
+OXY,Occidental Petroleum,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102010,Integrated Oil & Gas
+ODP,Office Depot,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504040,Specialty Stores
+OMX,OfficeMax Inc.,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504040,Specialty Stores
+OMC,Omnicom Group,25,Consumer Discretionary,2540,Media,254010,Media,25401010,Advertising
+ORCL,Oracle Corp.,45,Information Technology,4510,Software & Services,451030,Software,45103020,Systems Software
+PCAR,PACCAR Inc.,20,Industrials,2010,Capital Goods,201060,Machinery,20106010,Construction & Farm Machinery & Heavy Trucks
+PCG,PG&E Corp.,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+PMCS,PMC-Sierra Inc.,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+PNC,PNC Financial Services,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+PPG,PPG Industries,15,Materials,1510,Materials,151010,Chemicals,15101020,Diversified Chemicals
+PPL,PPL Corp.,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+PTV,Pactiv Corp.,15,Materials,1510,Materials,151030,Containers & Packaging,15103010,Metal & Glass Containers
+PLL,Pall Corp.,20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+PH,Parker-Hannifin,20,Industrials,2010,Capital Goods,201060,Machinery,20106020,Industrial Machinery
+PDCO,Patterson Cos. Inc.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102010,Health Care Distributors
+PAYX,Paychex Inc.,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+BTU,Peabody Energy,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102050,Coal & Consumable Fuels
+JCP,Penney (J.C.),25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503010,Department Stores
+PBG,Pepsi Bottling Group,30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201030,Soft Drinks
+PEP,PepsiCo Inc.,30,Consumer Staples,3020,Food Beverage & Tobacco,302010,Beverages,30201030,Soft Drinks
+PKI,PerkinElmer,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352030,Life Sciences Tools & Services,35203010,Life Sciences Tools & Services
+PFE,"Pfizer, Inc.",35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+PNW,Pinnacle West Capital,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+PBI,Pitney-Bowes,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201060,Office Services & Supplies
+PCL,Plum Creek Timber Co.,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402070,Specialized REITs
+RL,Polo Ralph Lauren Corp.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,"Textiles, Apparel & Luxury Goods",25203010,"Apparel, Accessories & Luxury Goods"
+PX,"Praxair, Inc.",15,Materials,1510,Materials,151010,Chemicals,15101040,Industrial Gases
+PFG,Principal Financial Group,40,Financials,4030,Insurance,403010,Insurance,40301020,Life & Health Insurance
+PLD,ProLogis,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402020,Industrial REITs
+PG,Procter & Gamble,30,Consumer Staples,3030,Household & Personal Products,303010,Household Products,30301010,Household Products
+PGN,"Progress Energy, Inc.",55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+PGR,Progressive Corp.,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+PRU,Prudential Financial,40,Financials,4030,Insurance,403010,Insurance,40301020,Life & Health Insurance
+PEG,Public Serv. Enterprise Inc.,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+PSA,Public Storage,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402070,Specialized REITs
+PHM,"Pulte Homes, Inc.",25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201030,Homebuilding
+QLGC,QLogic Corp.,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202020,Computer Storage & Peripherals
+QCOM,QUALCOMM Inc.,45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+DGX,Quest Diagnostics,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102015,Health Care Services
+STR,Questar Corp.,55,Utilities,5510,Utilities,551020,Gas Utilities,55102010,Gas Utilities
+Q,Qwest Communications Int,50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Integrated Telecommunication Services
+RSH,RadioShack Corp,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504020,Computer & Electronics Retail
+RTN,Raytheon Co. (New),20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+RF,Regions Financial Corp.,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+RAI,Reynolds American Inc.,30,Consumer Staples,3020,Food Beverage & Tobacco,302030,Tobacco,30203010,Tobacco
+RHI,Robert Half International,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201040,Human Resource & Employment Services
+ROK,"Rockwell Automation, Inc.",20,Industrials,2010,Capital Goods,201040,Electrical Equipment,20104010,Electrical Components & Equipment
+COL,Rockwell Collins,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+ROH,Rohm & Haas,15,Materials,1510,Materials,151010,Chemicals,15101050,Specialty Chemicals
+RDC,Rowan Cos.,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101010,Oil & Gas Drilling
+R,Ryder System,20,Industrials,2030,Transportation,203040,Road & Rail,20304020,Trucking
+SAF,SAFECO Corp.,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+SLM,SLM Corporation,40,Financials,4020,Diversified Financials,402020,Consumer Finance,40202010,Consumer Finance
+SWY,Safeway Inc.,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101030,Food Retail
+SNDK,SanDisk Corporation,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202020,Computer Storage & Peripherals
+SANM,Sanmina-SCI Corp.,45,Information Technology,4520,Technology Hardware & Equipment,452030,Electronic Equipment & Instruments,45203020,Electronic Manufacturing Services
+SLE,Sara Lee Corp.,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+SGP,Schering-Plough,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+SLB,Schlumberger Ltd.,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Oil & Gas Equipment & Services
+SSP,Scripps (E. W.) 'A',25,Consumer Discretionary,2540,Media,254010,Media,25401020,Broadcasting & Cable TV
+SEE,Sealed Air Corp.(New),15,Materials,1510,Materials,151030,Containers & Packaging,15103020,Paper Packaging
+SHLD,Sears Holdings Corporation,25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503010,Department Stores
+SRE,Sempra Energy,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+SHW,Sherwin-Williams,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504030,Home Improvement Retail
+SIAL,Sigma-Aldrich,15,Materials,1510,Materials,151010,Chemicals,15101050,Specialty Chemicals
+SPG,"Simon Property Group, Inc",40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402060,Retail REITs
+SII,Smith International,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Oil & Gas Equipment & Services
+SNA,Snap-On Inc.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201040,Household Appliances
+SLR,Solectron,45,Information Technology,4520,Technology Hardware & Equipment,452030,Electronic Equipment & Instruments,45203020,Electronic Manufacturing Services
+SO,Southern Co.,55,Utilities,5510,Utilities,551010,Electric Utilities,55101010,Electric Utilities
+LUV,Southwest Airlines,20,Industrials,2030,Transportation,203020,Airlines,20302010,Airlines
+SOV,Sovereign Bancorp,40,Financials,4010,Banks,401020,Thrifts & Mortgage Finance,40102010,Thrifts & Mortgage Finance
+SE,Spectra Energy Corp.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102040,Oil & Gas Storage & Transportation
+S,Sprint Nextel Corp.,50,Telecommunication Services,5010,Telecommunication Services,501020,Wireless Telecommunication Services,50102010,Wireless Telecommunication Services
+STJ,St Jude Medical,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+SWK,Stanley Works,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201040,Household Appliances
+SPLS,Staples Inc.,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504040,Specialty Stores
+SBUX,Starbucks Corp.,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301040,Restaurants
+HOT,Starwood Hotels & Resorts,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301020,"Hotels, Resorts & Cruise Lines"
+STT,State Street Corp.,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+SYK,Stryker Corp.,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+SUNW,Sun Microsystems,45,Information Technology,4520,Technology Hardware & Equipment,452020,Computers & Peripherals,45202010,Computer Hardware
+STI,SunTrust Banks,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+SUN,"Sunoco, Inc.",10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102030,Oil & Gas Refining & Marketing
+SVU,Supervalu Inc.,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101030,Food Retail
+SYMC,Symantec Corp.,45,Information Technology,4510,Software & Services,451030,Software,45103020,Systems Software
+SNV,Synovus Financial,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+SYY,Sysco Corp.,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101020,Food Distributors
+TROW,T. Rowe Price Group,40,Financials,4020,Diversified Financials,402030,Capital Markets,40203010,Asset Management & Custody Banks
+TE,TECO Energy,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+TJX,TJX Companies Inc.,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504010,Apparel Retail
+TXU,TXU Corp.,55,Utilities,5510,Utilities,551050,Independent Power Producers & Energy Traders,55105010,Independent Power Producers & Energy Traders
+TGT,Target Corp.,25,Consumer Discretionary,2550,Retailing,255030,Multiline Retail,25503020,General Merchandise Stores
+TEK,Tektronix Inc.,45,Information Technology,4520,Technology Hardware & Equipment,452030,Electronic Equipment & Instruments,45203010,Electronic Equipment Manufacturers
+TLAB,"Tellabs, Inc.",45,Information Technology,4520,Technology Hardware & Equipment,452010,Communications Equipment,45201020,Communications Equipment
+TIN,Temple-Inland,15,Materials,1510,Materials,151030,Containers & Packaging,15103020,Paper Packaging
+THC,Tenet Healthcare Corp.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102020,Health Care Facilities
+TER,Teradyne Inc.,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301010,Semiconductor Equipment
+TEX,Terex Corp.,20,Industrials,2010,Capital Goods,201060,Machinery,20106010,Construction & Farm Machinery & Heavy Trucks
+TXN,Texas Instruments,45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+TXT,Textron Inc.,20,Industrials,2010,Capital Goods,201050,Industrial Conglomerates,20105010,Industrial Conglomerates
+HSY,The Hershey Company,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+TRV,"The Travelers Companies, Inc.",40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+TMO,Thermo Fisher Scientific,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352030,Life Sciences Tools & Services,35203010,Life Sciences Tools & Services
+TIF,Tiffany & Co.,25,Consumer Discretionary,2550,Retailing,255040,Specialty Retail,25504040,Specialty Stores
+TWX,Time Warner Inc.,25,Consumer Discretionary,2540,Media,254010,Media,25401030,Movies & Entertainment
+TMK,Torchmark Corp.,40,Financials,4030,Insurance,403010,Insurance,40301020,Life & Health Insurance
+RIG,Transocean Inc.,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101010,Oil & Gas Drilling
+TRB,Tribune Co.,25,Consumer Discretionary,2540,Media,254010,Media,25401040,Publishing
+TYC,Tyco International,20,Industrials,2010,Capital Goods,201050,Industrial Conglomerates,20105010,Industrial Conglomerates
+TSN,Tyson Foods,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+USB,U.S. Bancorp,40,Financials,4010,Banks,401010,Commercial Banks,40101010,Diversified Banks
+UST,UST Inc.,30,Consumer Staples,3020,Food Beverage & Tobacco,302030,Tobacco,30203010,Tobacco
+UNP,Union Pacific,20,Industrials,2030,Transportation,203040,Road & Rail,20304010,Railroads
+UIS,Unisys Corp.,45,Information Technology,4510,Software & Services,451020,IT Services,45102010,IT Consulting & Other Services
+UNH,United Health Group Inc.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102030,Managed Health Care
+UPS,United Parcel Service,20,Industrials,2030,Transportation,203010,Air Freight & Logistics,20301010,Air Freight & Logistics
+X,United States Steel Corp.,15,Materials,1510,Materials,151040,Metals & Mining,15104050,Steel
+UTX,United Technologies,20,Industrials,2010,Capital Goods,201010,Aerospace & Defense,20101010,Aerospace & Defense
+UNM,Unum Group,40,Financials,4030,Insurance,403010,Insurance,40301020,Life & Health Insurance
+VFC,V.F. Corp.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252030,"Textiles, Apparel & Luxury Goods",25203010,"Apparel, Accessories & Luxury Goods"
+VLO,Valero Energy,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102030,Oil & Gas Refining & Marketing
+VAR,Varian Medical Systems,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+VRSN,Verisign Inc.,45,Information Technology,4510,Software & Services,451010,Internet Software & Services,45101010,Internet Software & Services
+VZ,Verizon Communications,50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Integrated Telecommunication Services
+VIA.B,Viacom Inc. (New),25,Consumer Discretionary,2540,Media,254010,Media,25401030,Movies & Entertainment
+VNO,Vornado Realty Trust,40,Financials,4040,Real Estate,404020,Real Estate Investment Trusts (REITs),40402010,Diversified REITs
+VMC,Vulcan Materials,15,Materials,1510,Materials,151020,Construction Materials,15102010,Construction Materials
+WB,Wachovia Corp. (New),40,Financials,4010,Banks,401010,Commercial Banks,40101010,Diversified Banks
+WMT,Wal-Mart Stores,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101040,HyperMarkets & Super Centers
+WAG,Walgreen Co.,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101010,Drug Retail
+DIS,Walt Disney Co.,25,Consumer Discretionary,2540,Media,254010,Media,25401030,Movies & Entertainment
+WM,Washington Mutual,40,Financials,4010,Banks,401020,Thrifts & Mortgage Finance,40102010,Thrifts & Mortgage Finance
+WMI,Waste Management Inc.,20,Industrials,2020,Commercial Services & Supplies,202010,Commercial Services & Supplies,20201050,Environmental & Facilities Services
+WAT,Waters Corporation,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352030,Life Sciences Tools & Services,35203010,Life Sciences Tools & Services
+WPI,Watson Pharmaceuticals,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+WFT,Weatherford International Ltd.,10,Energy,1010,Energy,101010,Energy Equipment & Services,10101020,Oil & Gas Equipment & Services
+WLP,WellPoint Inc.,35,Health Care,3510,Health Care Equipment & Services,351020,Health Care Providers & Services,35102030,Managed Health Care
+WFC,Wells Fargo,40,Financials,4010,Banks,401010,Commercial Banks,40101010,Diversified Banks
+WEN,Wendy's International,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301040,Restaurants
+WU,Western Union Co,45,Information Technology,4510,Software & Services,451020,IT Services,45102020,Data Processing & Outsourced Services
+WY,Weyerhaeuser Corp.,15,Materials,1510,Materials,151050,Paper & Forest Products,15105010,Forest Products
+WHR,Whirlpool Corp.,25,Consumer Discretionary,2520,Consumer Durables & Apparel,252010,Household Durables,25201040,Household Appliances
+WFMI,Whole Foods Market,30,Consumer Staples,3010,Food & Staples Retailing,301010,Food & Staples Retailing,30101030,Food Retail
+WMB,Williams Cos.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102040,Oil & Gas Storage & Transportation
+WIN,Windstream Corporation,50,Telecommunication Services,5010,Telecommunication Services,501010,Diversified Telecommunication Services,50101020,Integrated Telecommunication Services
+WWY,Wrigley (Wm) Jr.,30,Consumer Staples,3020,Food Beverage & Tobacco,302020,Food Products,30202030,Packaged Foods & Meats
+WYE,Wyeth,35,Health Care,3520,"Pharmaceuticals, Biotechnology & Life Sciences",352020,Pharmaceuticals,35202010,Pharmaceuticals
+WYN,Wyndham Worldwide,25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301020,"Hotels, Resorts & Cruise Lines"
+XL,XL Capital,40,Financials,4030,Insurance,403010,Insurance,40301040,Property & Casualty Insurance
+XTO,XTO Energy Inc.,10,Energy,1010,Energy,101020,"Oil, Gas & Consumable Fuels",10102020,Oil & Gas Exploration & Production
+XEL,Xcel Energy Inc,55,Utilities,5510,Utilities,551030,Multi-Utilities,55103010,Multi-Utilities
+XRX,Xerox Corp.,45,Information Technology,4520,Technology Hardware & Equipment,452040,Office Electronics,45204010,Office Electronics
+XLNX,"Xilinx, Inc",45,Information Technology,4530,Semiconductors & Semiconductor Equipment,453010,Semiconductor & Semiconductor Equipment,45301020,Semiconductors
+YHOO,Yahoo Inc.,45,Information Technology,4510,Software & Services,451010,Internet Software & Services,45101010,Internet Software & Services
+YUM,"Yum! Brands, Inc",25,Consumer Discretionary,2530,Consumer Services,253010,Hotels Restaurants & Leisure,25301040,Restaurants
+ZMH,Zimmer Holdings,35,Health Care,3510,Health Care Equipment & Services,351010,Health Care Equipment & Supplies,35101010,Health Care Equipment
+ZION,Zions Bancorp,40,Financials,4010,Banks,401010,Commercial Banks,40101015,Regional Banks
+EBAY,eBay Inc.,45,Information Technology,4510,Software & Services,451010,Internet Software & Services,45101010,Internet Software & Services
