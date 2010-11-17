@@ -34,6 +34,10 @@ Ext.setup({
             autoLoad: true
         });
         
+        // scrolling is too sluggish with 500 items
+        // filter to stocks with 1 and 2 letter ticker symbols (71 items)
+        jsonStore.filter('ticker', /^[A-Z]{1,2}$/)
+        
         var navBar = new Ext.Toolbar({
             itemId: 'navBar',               
             ui: 'light',
