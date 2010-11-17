@@ -70,6 +70,7 @@ Ext.setup({
                     dock: 'top'
                 }
             ],
+            layout: 'fit',
             scroll: 'vertical',            
             items: [
                 {
