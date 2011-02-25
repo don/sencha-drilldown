@@ -46,7 +46,7 @@ Ext.setup({
 	               text: 'Back',
 				   ui: 'back',
 	               handler: function(){
-	                   panel.layout.prev({type: 'slide', direction: 'right'});
+	                   Ext.getCmp("viewport").layout.prev({type: 'slide', direction: 'right'});
                    }
                }
             ]
@@ -61,7 +61,7 @@ Ext.setup({
         var showDetail = function(record, btn, index) {
             navBar.setTitle(record.get('ticker'));
             detailPanel.update(record.data); 
-            panel.setActiveItem(1);         
+            Ext.getCmp("viewport").setActiveItem(1);         
         }
         
         var listPanel = {
@@ -86,8 +86,8 @@ Ext.setup({
             ]           
         };
         
-        // TODO fix global
-        panel = new Ext.Panel({
+        var viewport = new Ext.Panel({
+           id: 'viewport',
            fullscreen: true,
            layout: 'card',
 		   cardSwitchAnimation: 'slide',		
