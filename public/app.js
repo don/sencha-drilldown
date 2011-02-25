@@ -28,7 +28,6 @@ Ext.setup({
                 url: 'sp500.json',
                 reader: {
                     type: 'json',
-                    record: 'company'
                 }               
             },
             autoLoad: true
